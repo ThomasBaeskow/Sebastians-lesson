@@ -1,0 +1,40 @@
+body {
+    background-color: darkolivegreen;
+}
+ol {
+    flex: auto;
+}
+#musiker {
+    color: black;
+}
+#kids {
+    color: blue;
+}
+#alben {
+    color: brown;
+}
+#tournee {
+    color: blueviolet;
+}
+li {
+    text-decoration: underline;
+    color: blue;
+}
+div {
+    margin-left: 800px;
+    margin-right: 800px;
+ }
+ol { display: inline-block; text-align: left; }
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
